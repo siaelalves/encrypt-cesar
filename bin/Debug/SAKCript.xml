@@ -1,0 +1,76 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SAKCript
+</name>
+</assembly>
+<members>
+<member name="P:SAKCript.CRP.Programa.Versão">
+	<summary>
+ Retorna a versão do programa que está sendo usado.
+ </summary>
+</member><member name="T:SAKCript.CRP.Programa">
+	<summary>
+ Permite acesso a informações básicas sobre o programa em uso.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:SAKCript.CRP.Arquivo.Tipo(System.String)">
+	<summary>
+ Retorna se o tipo do arquivo selecionado é criptografado ou não.
+ </summary>
+	<param name="arquivo">Caminho completo do arquivo.</param>
+</member><member name="P:SAKCript.CRP.Arquivo.Criador(System.String)">
+	<summary>
+ Retorna o criador do arquivo, i.e., quais dos sistemas SAKCript gerou o arquivo.
+ </summary>
+	<param name="arquivo">Caminho completo do arquivo.</param>
+</member><member name="P:SAKCript.CRP.Arquivo.Versão(System.String)">
+	<summary>
+ Retorna a versão do programa usada para criar o arquivo.
+ </summary>
+	<param name="arquivo">Caminho completo do arquivo.</param>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:SAKCript.CRP.Arquivo.Data(System.String)">
+	<summary>
+ Retorna a data de criação do arquivo.
+ </summary>
+	<param name="arquivo">Caminho completo do arquivo.</param>
+	<value></value>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="T:SAKCript.CRP.Arquivo">
+	<summary>
+ Permite acesso à leitura de metadados do arquivo.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:SAKCript.CRP.Descriptografia.Texto">
+	<summary>
+ Retorna o conteúdo do campo "Texto criptografado".
+ </summary>
+	<returns>Retorna todo o texto que será descriptografado.</returns>
+	<remarks></remarks>
+</member><member name="P:SAKCript.CRP.Criptografia.Texto">
+	<summary>
+ Retorna o conteúdo do campo "Texto descriptografado".
+ </summary>
+	<returns>Retorna todo o texto que será criptografado.</returns>
+	<remarks></remarks>
+</member><member name="P:SAKCript.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:SAKCript.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:SAKCript.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

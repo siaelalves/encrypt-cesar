@@ -1,0 +1,20 @@
+D:\E\Project\Visual Basic\Templates\SAKCript\bin\Debug\SAKCript.exe
+D:\E\Project\Visual Basic\Templates\SAKCript\bin\Debug\SAKCript.pdb
+D:\E\Project\Visual Basic\Templates\SAKCript\bin\Debug\SAKCript.xml
+D:\E\Project\Visual Basic\Templates\SAKCript\obj\Debug\ResolveAssemblyReference.cache
+D:\E\Project\Visual Basic\Templates\SAKCript\obj\Debug\SAKCript.CRP.resources
+D:\E\Project\Visual Basic\Templates\SAKCript\obj\Debug\SAKCript.Resources.resources
+D:\E\Project\Visual Basic\Templates\SAKCript\obj\Debug\SAKCript.exe
+D:\E\Project\Visual Basic\Templates\SAKCript\obj\Debug\SAKCript.xml
+D:\E\Project\Visual Basic\Templates\SAKCript\obj\Debug\SAKCript.pdb
+D:\E\Project\Visual Basic\Templates\SAKCript\obj\Debug\GenerateResource.read.1.tlog
+D:\E\Project\Visual Basic\Templates\SAKCript\obj\Debug\GenerateResource.write.1.tlog
+D:\Projetos\VB\Ativos\SAKCript\obj\Debug\SAKCript.exe
+D:\Projetos\VB\Ativos\SAKCript\obj\Debug\SAKCript.xml
+D:\Projetos\VB\Ativos\SAKCript\obj\Debug\SAKCript.pdb
+D:\Projetos\VB\Ativos\SAKCript\bin\Debug\SAKCript.exe
+D:\Projetos\VB\Ativos\SAKCript\bin\Debug\SAKCript.pdb
+D:\Projetos\VB\Ativos\SAKCript\bin\Debug\SAKCript.xml
+D:\Projetos\VB\Ativos\SAKCript\obj\Debug\SAKCript.CRP.resources
+D:\Projetos\VB\Ativos\SAKCript\obj\Debug\SAKCript.Resources.resources
+D:\Projetos\VB\Ativos\SAKCript\obj\Debug\SAKCript.vbproj.GenerateResource.Cache

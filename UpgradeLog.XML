@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SAKCript">
+</Property><Property Name="Solution File" Value="D:\E\Project\Visual Basic\Templates\SAKCript\SAKCript.sln">
+</Property><Property Name="User Options File" Value="D:\E\Project\Visual Basic\Templates\SAKCript\SAKCript.suo">
+</Property><Property Name="Date" Value="sexta-feira, 24 de maio de 2013">
+</Property><Property Name="Time" Value="08:06">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="SAKCript.sln" Description="File successfully backed up as D:\E\Project\Visual Basic\Templates\SAKCript\Backup\SAKCript.sln">
+</Event><Event ErrorLevel="0" Project="" Source="SAKCript.suo" Description="File successfully backed up as D:\E\Project\Visual Basic\Templates\SAKCript\Backup\SAKCript.suo">
+</Event><Event ErrorLevel="0" Project="SAKCript" Source="SAKCript.vbproj" Description="Project file successfully backed up as D:\E\Project\Visual Basic\Templates\SAKCript\Backup\SAKCript.vbproj">
+</Event><Event ErrorLevel="0" Project="SAKCript" Source="SAKCript.vbproj.user" Description="Project user file successfully backed up as D:\E\Project\Visual Basic\Templates\SAKCript\Backup\SAKCript.vbproj.user">
+</Event><Event ErrorLevel="0" Project="SAKCript" Source="CRP.vb" Description="File successfully backed up as D:\E\Project\Visual Basic\Templates\SAKCript\Backup\CRP.vb">
+</Event><Event ErrorLevel="0" Project="SAKCript" Source="CRP.Designer.vb" Description="File successfully backed up as D:\E\Project\Visual Basic\Templates\SAKCript\Backup\CRP.Designer.vb">
+</Event><Event ErrorLevel="0" Project="SAKCript" Source="My Project\AssemblyInfo.vb" Description="File successfully backed up as D:\E\Project\Visual Basic\Templates\SAKCript\Backup\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="SAKCript" Source="My Project\Application.Designer.vb" Description="File successfully backed up as D:\E\Project\Visual Basic\Templates\SAKCript\Backup\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="SAKCript" Source="My Project\Resources.Designer.vb" Description="File successfully backed up as D:\E\Project\Visual Basic\Templates\SAKCript\Backup\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="SAKCript" Source="My Project\Settings.Designer.vb" Description="File successfully backed up as D:\E\Project\Visual Basic\Templates\SAKCript\Backup\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="SAKCript" Source="My Project\Application.myapp" Description="File successfully backed up as D:\E\Project\Visual Basic\Templates\SAKCript\Backup\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="SAKCript" Source="My Project\Settings.settings" Description="File successfully backed up as D:\E\Project\Visual Basic\Templates\SAKCript\Backup\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="SAKCript" Source="CRP.resx" Description="File successfully backed up as D:\E\Project\Visual Basic\Templates\SAKCript\Backup\CRP.resx">
+</Event><Event ErrorLevel="0" Project="SAKCript" Source="My Project\Resources.resx" Description="File successfully backed up as D:\E\Project\Visual Basic\Templates\SAKCript\Backup\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="SAKCript" Source="SAKCript.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SAKCript" Source="SAKCript.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SAKCript.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SAKCript.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SAKCript" Source="SAKCript.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
